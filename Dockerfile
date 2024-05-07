@@ -13,8 +13,11 @@ RUN npm ci --production
 COPY server.js ./
 COPY public ./public
 
-# Set environment variables (if required)
-ENV NODE_ENV=production
+# Set default value for NODE_ENV
+ENV NODE_ENV dev
+
+# Set default value for OPENAI_API_KEY (replace 'your_openai_api_key_here' with a placeholder)
+# ENV OPENAI_API_KEY your_openai_api_key_here
 
 # Non-root user for better security
 RUN adduser -D appuser

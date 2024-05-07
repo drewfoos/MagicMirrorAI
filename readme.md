@@ -54,13 +54,11 @@ cd MagicMirrorAI
 
 2.  **Set up environment variables**
 
-- Rename `.env.example` to `.env`.
-
-- Add your OpenAI API key to the `.env` file:
+- Add your OpenAI API key to the `Dockerfile` file and uncomment it:
 
 ```plaintext
 
-OPENAI_API_KEY=insertyourapikeyhere
+ENV OPENAI_API_KEY your_openai_api_key_here
 
 ```
 
