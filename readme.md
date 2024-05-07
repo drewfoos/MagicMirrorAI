@@ -108,7 +108,7 @@ Contributions are what make the open-source community such an amazing place to l
 
   
 
-Distributed under the ISC License. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
   
 
