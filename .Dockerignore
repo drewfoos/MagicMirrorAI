@@ -7,3 +7,4 @@ Dockerfile
 .env
 fly.toml
 readme.md
+.env.example
