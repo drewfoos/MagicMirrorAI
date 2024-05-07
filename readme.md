@@ -120,7 +120,7 @@ Andrew Dryfoos - dryfoosa@gmail.com
 
   
 
-Project Link: [https://github.com/drewfoos/MagicMirrorAI](https://github.com/drewfoos/MagicMirrorAI)
+Linkedin: [https://www.linkedin.com/in/andrew-dryfoos/](https://www.linkedin.com/in/andrew-dryfoos/)
 
   
 
