@@ -1,4 +1,4 @@
-# [# Generative AI Mirror](https://magic-mirror.fly.dev/)
+# [Generative AI Mirror](https://magic-mirror.fly.dev/)
 
   Created by Andrew Dryfoos
 
