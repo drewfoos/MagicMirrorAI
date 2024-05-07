@@ -1,0 +1,23 @@
+{
+  "name": "capstone_node",
+  "version": "1.0.0",
+  "description": "A generative AI program that uses OpenAI to display a description and photo of the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["node", "express", "api"],
+  "author": {
+    "name": "Andrew Dryfoos",
+    "email": "dryfoosa@gmail.com",
+    "url": "https://portfolio-dryfoos.vercel.app/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
